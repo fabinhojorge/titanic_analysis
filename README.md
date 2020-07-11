@@ -4,10 +4,10 @@ In this Notebook we will do an EDA (Exploratory Data Analysis) In the Titanic Da
 
 Following the PDSA Cycle, let's answer the 3 PDSA's questions:
 * Objective: Understand the features; Clean the Dataset; Find a good ML algorithm;
-* Methodology: Analyze the data, using different visualizantions and metrics; Apply transformations that will bring value to the data; Test a list of ML algorithms, with different parameters, to find out the best ML algorithm for this dataset;
-* Espected Results: A better undertanding of the dataset and its limitations; A Cleaning process that will bring more value to the ML phase; Compare the ML Algorithms with diferent evaluations: ROC Curve, Accuracy and F1_score;
+* Methodology: Analyze the data, using different visualizations and metrics; Apply transformations that will bring value to the data; Test a list of ML algorithms, with different parameters, to find out the best ML algorithm for this dataset;
+* Expected Results: A better understanding of the dataset and its limitations; A Cleaning process that will bring more value to the ML phase; Compare the ML Algorithms with different evaluations: ROC Curve, Accuracy and F1_score;
 
-Let's start by loading the dataset and checking some informations.
+Let's start by loading the dataset and checking some information.
 
 
 ```python
